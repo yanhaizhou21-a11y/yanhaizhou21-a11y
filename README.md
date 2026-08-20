@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/DZd73nCn7bgAAAAC/superman-meme.gif" width="70%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,82,204,0.4);" alt="Superman - Starman in the Sky"/>
+<img src="https://media1.tenor.com/m/DZd73nCn7bgAAAAC/superman-meme.gif" width="75%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,82,204,0.4);" alt="Superman - Starman in the Sky"/>
 
 <br/>
 
@@ -120,6 +120,19 @@ No system is too complex to untangle, no challenge insurmountable when driven by
 
 </div>
 
+<div align="center">
+
+```
+        .·´¯`·.
+       /  \S/  \      <-- Man of Steel guarding the CI/CD pipeline
+      |  ▲   ▲  |
+       \  ---  /
+        `·._.·´
+   "No build pass, no flight takes off."
+```
+
+</div>
+
 ---
 
 ## 🕹️ LIVE CONTRIBUTION & FLIGHT ARENA
@@ -199,4 +212,4 @@ No system is too complex to untangle, no challenge insurmountable when driven by
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5af19,30:d90429,70:0052cc,100:0a1128&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5af19,30:d90429,70:0052cc,100:0a1128&height=110&section=footer&animation=twinkling" width="100%"/>
