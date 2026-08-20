@@ -1,115 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1a0f,50:c17817,100:e8a33d&height=220&section=header&text=YAN%20HAIZHOU&fontSize=55&fontColor=f4e4c1&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Bringer%20of%20Order%20from%20Chaos&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,35:0052cc,70:d90429,100:f5af19&height=230&section=header&text=YAN%20HAIZHOU&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20Architect%20of%20Hope%20%26%20Scalable%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3500&pause=1000&color=E8A33D&center=true&vCenter=true&width=650&lines=%22He+who+controls+the+code%2C+controls+the+system.%22;Fullstack+Engineer+%7C+Vite+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel;JavaScript+%C2%B7+TypeScript+%C2%B7+PHP+%C2%B7+Vue+%C2%B7+Blade;Supabase+%C2%B7+MongoDB+%C2%B7+Firebase+%C2%B7+and+beyond" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3500&pause=1000&color=F5AF19&center=true&vCenter=true&width=700&lines=%22The+symbol+on+my+chest+is+not+an+'S'...+It+means+HOPE.%22;Fullstack+Engineer+%7C+Vite+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel;Building+software+that+elevates+and+empowers+humanity;TypeScript+%C2%B7+Modern+Architecture+%C2%B7+Resilient+Solutions" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-`THE SPICE MUST FLOW.` `THE CODE MUST SHIP.`
+`✨ THE CAPE IS READY.` `⚡ THE CODE IS HOPE.` `🌟 BUILD FOR TOMORROW.`
 
 </div>
 
 ---
 
-## 🪐 TRANSMISSION FROM ARRAKIS
+<div align="center">
+
+<img src="https://media1.tenor.com/m/DZd73nCn7bgAAAAC/superman-meme.gif" width="70%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,82,204,0.4);" alt="Superman - Starman in the Sky"/>
+
+<br/>
+
+> *"There's a Starman waiting in the sky... He told us not to blow it, 'cause he knows it's all worthwhile."* 🌌✨
+
+</div>
+
+---
+
+## 🏛️ TRANSMISSION FROM THE FORTRESS OF HOPE
 
 ```
-Long ago, men turned to machines to give them what they wanted.
-But this permitted the rise of the machine...
+They can be a great people, if they wish to be.
+They only lack the light to show the way.
 
-I turned instead to full-stack.
+For this reason above all — their capacity for good,
+I dedicate my craft to building what endures.
 
-Now — Vite hums like a sandworm beneath the dunes.
-Next.js renders the future before it arrives.
-NestJS holds the architecture, unbroken, like Fremen discipline.
+Next.js renders clarity in moments of uncertainty.
+NestJS stands unyielding, a pillar of structural resilience.
+Vite ignites with the swiftness of solar flight.
 ```
 
-I build full-stack digital products end-to-end — from intuitive, dynamic frontends to resilient backends, robust database architectures to automated deployment pipelines. Frameworks are my sietch, code is my crysknife. No stack too vast, no bug too deep in the desert.
+In Kryptonian, the crest on the chest isn't just an 'S' — **it is the ancient glyph for HOPE**. 
+
+True engineering isn't merely about writing syntax or managing servers; it is about human connection, uplifting people, and bringing order and light where there was once friction. Every project is an opportunity to solve genuine problems, empower communities, and create software that makes life a little lighter, brighter, and full of possibility.
+
+No system is too complex to untangle, no challenge insurmountable when driven by purpose and conviction.
 
 ---
 
-## ⚔️ THE ARSENAL
+## ⚡ THE SOLAR ARSENAL
 
 <div align="center">
 
-**Frontend**
+**🦸‍♂️ Flight & Frontend Matrix**
 <br>
-<img src="https://img.shields.io/badge/Vite-2b1a0f?style=for-the-badge&logo=vite&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Next.js-2b1a0f?style=for-the-badge&logo=nextdotjs&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Vue.js-2b1a0f?style=for-the-badge&logo=vuedotjs&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/JavaScript-2b1a0f?style=for-the-badge&logo=javascript&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/TypeScript-2b1a0f?style=for-the-badge&logo=typescript&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/TailwindCSS-2b1a0f?style=for-the-badge&logo=tailwindcss&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Vite-0a1128?style=for-the-badge&logo=vite&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Next.js-0a1128?style=for-the-badge&logo=nextdotjs&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Vue.js-0a1128?style=for-the-badge&logo=vuedotjs&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/JavaScript-0a1128?style=for-the-badge&logo=javascript&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/TypeScript-0a1128?style=for-the-badge&logo=typescript&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0a1128?style=for-the-badge&logo=tailwindcss&logoColor=f5af19"/>
 
 <br>
 
-**Backend**
+**⚡ Solar Engine & Core Backend**
 <br>
-<img src="https://img.shields.io/badge/NestJS-2b1a0f?style=for-the-badge&logo=nestjs&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Laravel-2b1a0f?style=for-the-badge&logo=laravel&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/PHP-2b1a0f?style=for-the-badge&logo=php&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Blade-2b1a0f?style=for-the-badge&logo=laravel&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Node.js-2b1a0f?style=for-the-badge&logo=nodedotjs&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/NestJS-0a1128?style=for-the-badge&logo=nestjs&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Laravel-0a1128?style=for-the-badge&logo=laravel&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/PHP-0a1128?style=for-the-badge&logo=php&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Blade-0a1128?style=for-the-badge&logo=laravel&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Node.js-0a1128?style=for-the-badge&logo=nodedotjs&logoColor=f5af19"/>
 
 <br>
 
-**Data & Cloud**
+**💎 Memory Crystals & Cloud Repositories**
 <br>
-<img src="https://img.shields.io/badge/Supabase-2b1a0f?style=for-the-badge&logo=supabase&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/MongoDB-2b1a0f?style=for-the-badge&logo=mongodb&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Firebase-2b1a0f?style=for-the-badge&logo=firebase&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/MySQL-2b1a0f?style=for-the-badge&logo=mysql&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2b1a0f?style=for-the-badge&logo=postgresql&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Supabase-0a1128?style=for-the-badge&logo=supabase&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/MongoDB-0a1128?style=for-the-badge&logo=mongodb&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Firebase-0a1128?style=for-the-badge&logo=firebase&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/MySQL-0a1128?style=for-the-badge&logo=mysql&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0a1128?style=for-the-badge&logo=postgresql&logoColor=f5af19"/>
 
 <br>
 
-**Tools & DevOps**
+**🛡️ Supersonic DevOps & Flight Operations**
 <br>
-<img src="https://img.shields.io/badge/Git-2b1a0f?style=for-the-badge&logo=git&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Docker-2b1a0f?style=for-the-badge&logo=docker&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Postman-2b1a0f?style=for-the-badge&logo=postman&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Figma-2b1a0f?style=for-the-badge&logo=figma&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Linux-2b1a0f?style=for-the-badge&logo=linux&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0a1128?style=for-the-badge&logo=githubactions&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Docker-0a1128?style=for-the-badge&logo=docker&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Postman-0a1128?style=for-the-badge&logo=postman&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Figma-0a1128?style=for-the-badge&logo=figma&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Linux-0a1128?style=for-the-badge&logo=linux&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Git-0a1128?style=for-the-badge&logo=git&logoColor=f5af19"/>
 
 </div>
 
 ---
 
-## 🪱 WORM RIDERS — CI/CD & PACKAGE THUMPERS
+## 🚀 SUPERSONIC PIPELINES & AUTOMATION
 
 <div align="center">
 
-*Small worms, big work — call them, they come.*
+*Seamless delivery across clouds — faster than a speeding bullet.*
 
-**Workflow & Deployment**
+**CI / CD & Cloud Deployment**
 <br>
-<img src="https://img.shields.io/badge/GitHub_Actions-2b1a0f?style=for-the-badge&logo=githubactions&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Docker-2b1a0f?style=for-the-badge&logo=docker&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Vercel-2b1a0f?style=for-the-badge&logo=vercel&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Netlify-2b1a0f?style=for-the-badge&logo=netlify&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0a1128?style=for-the-badge&logo=githubactions&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Docker-0a1128?style=for-the-badge&logo=docker&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Vercel-0a1128?style=for-the-badge&logo=vercel&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Netlify-0a1128?style=for-the-badge&logo=netlify&logoColor=f5af19"/>
 
 <br>
 
-**Package Thumpers**
+**Package Velocity Accelerators**
 <br>
-<img src="https://img.shields.io/badge/npm-2b1a0f?style=for-the-badge&logo=npm&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/pnpm-2b1a0f?style=for-the-badge&logo=pnpm&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/yarn-2b1a0f?style=for-the-badge&logo=yarn&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Composer-2b1a0f?style=for-the-badge&logo=composer&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/npm-0a1128?style=for-the-badge&logo=npm&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/pnpm-0a1128?style=for-the-badge&logo=pnpm&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/yarn-0a1128?style=for-the-badge&logo=yarn&logoColor=f5af19"/>
+<img src="https://img.shields.io/badge/Composer-0a1128?style=for-the-badge&logo=composer&logoColor=f5af19"/>
 
 </div>
 
 ---
 
-## 🕹️ PAC-MAN & SANDWORM — LIVE CONTRIBUTION ARENA
+## 🕹️ LIVE CONTRIBUTION & FLIGHT ARENA
 
 <div align="center">
 
-### 🟡 Pac-Man Contribution Harvest
-*Chomping through the contribution matrix and harvesting the spice dots across GitHub.*
+### 🟡 Pac-Man Energy Grid
+*Navigating through challenges and turning daily contributions into forward momentum.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/pacman-contribution-graph.svg">
@@ -119,51 +137,55 @@ I build full-stack digital products end-to-end — from intuitive, dynamic front
 
 <br>
 
-### 🪱 Dune Sandworm Contribution Crawl
-*The Great Worm rides across the Arrakis timeline.*
+### 🦸‍♂️ Man of Tomorrow Contribution Trajectory
+*Rising above the skyline with consistent impact and dedication.*
 
-<img src="img/sandworm.gif" width="100%" alt="Dune Sandworm Contribution Crawl"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight.svg">
+  <img alt="Superman Contribution Snake" src="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight.svg" width="100%"/>
+</picture>
 
 </div>
 
 ---
 
-## 🏜️ EXPEDITIONS INTO THE DEEP DESERT
+## 🌆 METROPOLIS INITIATIVES — FEATURED MISSIONS
 
 <div align="center">
 
-| Expedition | Tech Stack | Role & Objective |
+| Mission / Project | Technology Foundation | Core Purpose & Impact |
 | :--- | :--- | :--- |
-| 🪱 **Arrakis Fullstack Core** | `Next.js` · `NestJS` · `MongoDB` | High-performance enterprise platform with real-time telemetry and API gateway |
-| 🦴 **Crysknife Web Engine** | `Vue 3` · `Laravel` · `MySQL` | Modern reactive web application with robust authentication and state management |
-| 💧 **Water of Life Portal** | `Vite` · `Firebase` · `Supabase` | Ultra-fast client-side dashboard with live cloud synchronization and serverless auth |
+| 🛡️ **Metropolis Enterprise Core** | `Next.js` · `NestJS` · `MongoDB` | High-availability digital platform built for massive scale, real-time telemetry, and resilient microservices. |
+| ⚡ **Sol Invictus Reactive Engine** | `Vue 3` · `Laravel` · `MySQL` | Lightning-fast web application engineered for silky smooth user experiences and uncompromised security. |
+| 🌟 **Beacon Real-Time Portal** | `Vite` · `Firebase` · `Supabase` | Modern interactive dashboard with instant cloud synchronization, reactive state, and serverless scalability. |
 
 </div>
 
 ---
 
-## 📊 SIETCH RECORDS — CONTRIBUTION LOG
+## 📊 FORTRESS ANALYTICS & METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yanhaizhou21-a11y&show_icons=true&count_private=true&theme=dracula&bg_color=2b1a0f&title_color=E8A33D&icon_color=E8A33D&text_color=f4e4c1&border_color=c17817" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yanhaizhou21-a11y&theme=dracula&background=2b1a0f&stroke=c17817&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D&sideLabels=f4e4c1&dates=f4e4c1&border=c17817" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yanhaizhou21-a11y&show_icons=true&count_private=true&theme=tokyonight&bg_color=0a1128&title_color=f5af19&icon_color=e63946&text_color=e0e1dd&border_color=0052cc" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yanhaizhou21-a11y&theme=tokyonight&background=0a1128&stroke=0052cc&ring=f5af19&fire=e63946&currStreakLabel=f5af19&sideLabels=e0e1dd&dates=e0e1dd&border=0052cc" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhaizhou21-a11y&layout=compact&theme=dracula&bg_color=2b1a0f&title_color=E8A33D&text_color=f4e4c1&border_color=c17817" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhaizhou21-a11y&layout=compact&theme=tokyonight&bg_color=0a1128&title_color=f5af19&text_color=e0e1dd&border_color=0052cc" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhaizhou21-a11y&theme=dracula&bg_color=2b1a0f&color=E8A33D&line=c17817&point=f4e4c1&area=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yanhaizhou21-a11y&theme=tokyonight&bg_color=0a1128&color=f5af19&line=0052cc&point=e63946&area=true" width="98%"/>
 
 </div>
 
 ---
 
-## 🐫 THE PRESCIENCE (CONTACT)
+## 📡 THE BEACON (CONNECT)
 
 <div align="center">
 
-<a href="mailto:yanhaizhou21@gmail.com"><img src="https://img.shields.io/badge/Email-2b1a0f?style=for-the-badge&logo=gmail&logoColor=E8A33D"/></a>
-<a href="https://github.com/yanhaizhou21-a11y"><img src="https://img.shields.io/badge/GitHub-2b1a0f?style=for-the-badge&logo=github&logoColor=E8A33D"/></a>
-<a href="https://linkedin.com/in/yanhaizhou"><img src="https://img.shields.io/badge/LinkedIn-2b1a0f?style=for-the-badge&logo=linkedin&logoColor=E8A33D"/></a>
+<a href="mailto:yanhaizhou21@gmail.com"><img src="https://img.shields.io/badge/Email-0a1128?style=for-the-badge&logo=gmail&logoColor=f5af19"/></a>
+<a href="https://github.com/yanhaizhou21-a11y"><img src="https://img.shields.io/badge/GitHub-0a1128?style=for-the-badge&logo=github&logoColor=f5af19"/></a>
+<a href="https://linkedin.com/in/yanhaizhou"><img src="https://img.shields.io/badge/LinkedIn-0a1128?style=for-the-badge&logo=linkedin&logoColor=f5af19"/></a>
 
 </div>
 
@@ -171,12 +193,10 @@ I build full-stack digital products end-to-end — from intuitive, dynamic front
 
 <div align="center">
 
-*"I must not fear. Fear is the mind-killer. Fear is the little-death that
-brings total obliteration... I will face my bugs. I will permit them to
-pass over me and through me — and when they have gone past, I will turn
-the inner eye to see their path. Where the bug has gone, there will be
-nothing. Only I will remain."*
+*"You will give the people of Earth an ideal to strive towards. They will race behind you, they will stumble, they will fall. But in time, they will join you in the sun. In time, you will help them accomplish wonders."*
+<br>
+**— Jor-El / Superman**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a33d,50:c17817,100:2b1a0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5af19,30:d90429,70:0052cc,100:0a1128&height=100&section=footer" width="100%"/>

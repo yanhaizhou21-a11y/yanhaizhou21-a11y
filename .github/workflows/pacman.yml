@@ -1,4 +1,4 @@
-name: Generate Pacman & Dune Sandworm Contribution Animation
+name: Generate Pacman & Superman Flight Contribution Animation
 
 on:
   schedule:
@@ -25,14 +25,16 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: github-dark
 
-      - name: Generate Dune Sandworm Contribution Animation
+      - name: Generate Superman Flight Contribution Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/sandworm-dune.svg?color_snake=#e8a33d&color_dots=#2b1a0f,#5a361e,#8c531b,#c17817,#e8a33d
-            dist/sandworm-dune-dark.svg?color_snake=#e8a33d&color_dots=#1e120b,#4a2c16,#8c531b,#c17817,#e8a33d
-            dist/sandworm-dune.gif?color_snake=#e8a33d&color_dots=#2b1a0f,#5a361e,#8c531b,#c17817,#e8a33d&color_background=#1a1009
+            dist/superman-flight.svg?color_snake=#f5af19&color_dots=#0a1128,#1c3166,#0052cc,#e63946,#f5af19
+            dist/superman-flight-dark.svg?color_snake=#f5af19&color_dots=#050c1e,#0d2040,#0052cc,#e63946,#f5af19
+            dist/superman-flight.gif?color_snake=#f5af19&color_dots=#0a1128,#1c3166,#0052cc,#e63946,#f5af19&color_background=#050c1e
+            dist/sandworm-dune.svg?color_snake=#f5af19&color_dots=#0a1128,#1c3166,#0052cc,#e63946,#f5af19
+            dist/sandworm-dune.gif?color_snake=#f5af19&color_dots=#0a1128,#1c3166,#0052cc,#e63946,#f5af19&color_background=#050c1e
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
