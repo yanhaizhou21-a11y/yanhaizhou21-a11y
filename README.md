@@ -135,28 +135,16 @@ No system is too complex to untangle, no challenge insurmountable when driven by
 
 ---
 
-## 🕹️ LIVE CONTRIBUTION & FLIGHT ARENA
+## 🌌 THE SOLAR FLIGHT — LIVE CONTRIBUTION ARENA
 
 <div align="center">
 
-### 🟡 Pac-Man Energy Grid
-*Navigating through challenges and turning daily contributions into forward momentum.*
+*Charting every commit and deployment across the solar skyline.*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/pacman-contribution-graph.svg" width="100%"/>
-</picture>
-
-<br>
-
-### 🦸‍♂️ Man of Tomorrow Contribution Trajectory
-*Rising above the skyline with consistent impact and dedication.*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight.svg">
-  <img alt="Superman Contribution Snake" src="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight.svg" width="100%"/>
+  <img alt="Superman Flight Contribution Animation" src="https://raw.githubusercontent.com/yanhaizhou21-a11y/yanhaizhou21-a11y/output/superman-flight.svg" width="100%"/>
 </picture>
 
 </div>
