@@ -1,60 +1,27 @@
 <div align="center">
-
-<a href="https://yanhai-portofolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yanhai+(Stoic+King);Fullstack+%26+Creative+Tools+Developer;Building+Local-First+Apps+%26+Motion+Web;Design-Driven+Engineering+%E2%9C%A6" alt="Typing SVG" />
-</a>
-
-<sub>Fullstack Developer · Local-First Software · Creative & Generative Interfaces</sub>
-
-<br /><br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white)](https://yanhai-portofolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/yanhaizhou21-a11y)
-[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:yanhaizhou21@gmail.com)
-
+  <img src="img/hero-banner.jpg" width="100%" alt="Minimalist dark anime illustration beside a window" />
 </div>
 
 ---
 
+<div align="center">
+  <a href="https://yanhai-portofolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Yanhai+(Stoic+King);Fullstack+%26+Creative+Tools+Developer;Building+Local-First+Apps+%26+Motion+Web;Design-Driven+Frontend+%26+Systems" alt="Typing SVG" />
+  </a>
+</div>
+
 ## About Me
 
-- 🛠 Building **local-first desktop & mobile apps**, **full-stack web platforms**, and **interactive generative tools**.
-- ⚡ Focused on **TypeScript**, **React**, **Tauri (Rust)**, and **Laravel** — pairing clean architecture with fluid motion.
-- 🎨 Bridging **UI/UX craft** and engineering across **Figma**, **Affinity**, **Canva**, and **Paper Design**.
-- 🌐 Portfolio: **[yanhai-portofolio.vercel.app](https://yanhai-portofolio.vercel.app)** · 📫 **[yanhaizhou21@gmail.com](mailto:yanhaizhou21@gmail.com)**
+- Fullstack developer building local-first desktop and mobile apps, web applications, and generative typography tools.
+- Mostly working with TypeScript, React, Tauri (Rust), and Laravel across user interfaces and backend services.
+- Recent builds: [ReadTrack](https://github.com/yanhaizhou21-a11y/readtrack) (offline document reader), [DDT](https://github.com/yanhaizhou21-a11y/DDT) (personal daily ledger), [Type-motion](https://github.com/yanhaizhou21-a11y/Type-motion) (procedural botanical poster studio), and [BotaniSeed](https://github.com/yanhaizhou21-a11y/LPBS).
+- Designing interfaces, motion studies, and visual assets in Figma, Affinity, Canva, and Paper Design.
+- Portfolio: [yanhai-portofolio.vercel.app](https://yanhai-portofolio.vercel.app)
+- Reach me at [yanhaizhou21@gmail.com](mailto:yanhaizhou21@gmail.com)
 
----
-
-## What I'm Building
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/yanhaizhou21-a11y/readtrack">ReadTrack</a></strong><br />
-      <sub>Local-first document reader & reading tracker with zero cloud telemetry.</sub><br />
-      <code>Tauri v2</code> · <code>Rust</code> · <code>React</code> · <code>SQLite</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/yanhaizhou21-a11y/DDT">DDT — Daily Dashboard Tracker</a></strong><br />
-      <sub>Personal ledger for commits, tasks, journals & logs across web, desktop, and Android.</sub><br />
-      <code>TypeScript</code> · <code>Drizzle</code> · <code>Tauri</code> · <code>Capacitor</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/yanhaizhou21-a11y/Type-motion">Type-motion</a></strong> · <a href="https://type-motion-mu.vercel.app"><sub>Live ↗</sub></a><br />
-      <sub>Procedural botanical typography & poster studio with video/SVG export.</sub><br />
-      <code>TypeScript</code> · <code>Vite</code> · <code>Canvas / SVG</code> · <code>IndexedDB</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/yanhaizhou21-a11y/LPBS">BotaniSeed (LPBS)</a></strong> · <a href="https://botaniseed.vercel.app"><sub>Live ↗</sub></a><br />
-      <sub>Fullstack web application with kinetic scroll choreography and REST API.</sub><br />
-      <code>React</code> · <code>Tailwind v4</code> · <code>GSAP</code> · <code>Express</code> · <code>MongoDB</code>
-    </td>
-  </tr>
-</table>
-
----
+  [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/yanhaizhou21-a11y)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white)](https://yanhai-portofolio.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:yanhaizhou21@gmail.com)
 
 ## Tech Stack
 
@@ -77,7 +44,7 @@
   ![Laravel](https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20)
   ![Tauri](https://img.shields.io/badge/Tauri_v2-18181B?style=flat-square&logo=tauri&logoColor=24C8DB)
   ![Capacitor](https://img.shields.io/badge/Capacitor-18181B?style=flat-square&logo=capacitor&logoColor=119EFF)
-  ![Framer Motion](https://img.shields.io/badge/Motion-18181B?style=flat-square&logo=framer&logoColor=0055FF)
+  ![Motion](https://img.shields.io/badge/Motion-18181B?style=flat-square&logo=framer&logoColor=0055FF)
   ![GSAP](https://img.shields.io/badge/GSAP-18181B?style=flat-square&logo=greensock&logoColor=88CE02)
 
 - **Databases & Storage**
@@ -88,14 +55,14 @@
   ![Firebase](https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=DD2C00)
   ![LibSQL](https://img.shields.io/badge/LibSQL-18181B?style=flat-square&logo=turso&logoColor=4FF8D2)
 
-- **Design Tools**
+- **Design**
 
   ![Figma](https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E)
   ![Affinity](https://img.shields.io/badge/Affinity-18181B?style=flat-square)
   ![Canva](https://img.shields.io/badge/Canva-18181B?style=flat-square)
   ![Paper Design](https://img.shields.io/badge/Paper_Design-18181B?style=flat-square)
 
-- **Tooling & Workflow**
+- **Tooling**
 
   ![pnpm](https://img.shields.io/badge/pnpm-18181B?style=flat-square&logo=pnpm&logoColor=F69220)
   ![Vitest](https://img.shields.io/badge/Vitest-18181B?style=flat-square&logo=vitest&logoColor=6E9F18)
@@ -104,17 +71,15 @@
   ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white)
   ![Composer](https://img.shields.io/badge/Composer-18181B?style=flat-square&logo=composer&logoColor=885630)
 
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanhaizhou21-a11y&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhaizhou21-a11y&layout=compact&theme=transparent&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yanhaizhou21-a11y&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhaizhou21-a11y&layout=compact&theme=transparent&hide_border=false&hide=html,css" alt="Top Languages" width="305" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanhaizhou21-a11y&theme=transparent&hide_border=true" alt="GitHub Streak" width="460" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanhaizhou21-a11y&theme=transparent&hide_border=false" alt="GitHub Streak" width="495" />
 </p>
 
 <p align="center">
@@ -125,4 +90,4 @@
   </picture>
 </p>
 
-> *"Life has more trouble than you think — build quiet tools that carry the weight."*
+> "Life has more trouble than you think. Build quiet tools that hold up under it."
