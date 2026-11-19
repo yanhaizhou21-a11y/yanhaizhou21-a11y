@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/hero-banner.jpg" width="100%" alt="Minimalist dark anime illustration beside a window" />
+  <img src="img/hero-banner.png" width="100%" alt="Minimalist dark anime illustration beside a window" />
 </div>
 
 ---
